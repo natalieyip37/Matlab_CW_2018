@@ -1,6 +1,4 @@
-Computing in Medicine Coursework 2018
-Last updated: 14th Jan 2018
-Student no.: 14017285
+
 
 -- FILES BRIEF DESCRIPTIONS --
 
